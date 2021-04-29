@@ -34,8 +34,11 @@ sudo apt-cache search linux-mptcp-*
 
 // Now(2021-04-29) detected versions are
 ```
-##### 
-
+![mptcp-version](img/mptcp_ver.png)
+##### 4.2. Install the wanted MPTCP version
+```sh
+sudo apt-get install linux-mptcp-
+```
 <br>
 
 ## <a id="rpi">RaspberryPi</a>
