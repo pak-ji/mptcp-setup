@@ -27,8 +27,6 @@ sudo sh -c "echo 'deb https://dl.bintray.com/multipath-tcp/mptcp_deb stable main
 ```sh
 sudo apt-get update
 sudo apt-get install linux-mptcp
-
-// This is latest version download command.
 ```
 
 ##### 4. Install the older version MPTCP (Kernel Ver >= 4.x && MPTCP Ver >= v0.9x)
