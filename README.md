@@ -1,17 +1,17 @@
-## MPTCP-SETUP
+# MPTCP-SETUP
 This describes the process of setting up MPTCP on the Linux kernel. <br>
 It will be described in two models. <br>
 One is the Debian family of x86 general computers, and the other is RaspberryPi.
 
 <br>
 
-## Navigation 
+# Navigation 
 * [Debian(x86)](#x86)
 * [RaspberryPi](#rpi)
 
 <br>
 
-## <a id="x86">Debian(x86)</a>
+# <a id="x86">Debian(x86)</a>
 
 ##### 1. Add gpg-apt-key
 ```sh
@@ -45,10 +45,10 @@ sudo apt-get install linux-mptcp-<wanted version>
 ```
 <br>
 
-## <a id="rpi">RaspberryPi</a>
+# <a id="rpi">RaspberryPi</a>
 
 
 <br>
 
-## Reference
+### Reference
 * www.multipath-tcp.org
