@@ -11,10 +11,8 @@ One is the Debian family of x86 general computers, and the other is RaspberryPi.
 
 <br>
 
-## Debian(x86)
-<a id="x86">x86</a>
+## <a id="x86">Debian(x86)</a>
 
 <br>
 
-## RaspberryPi
-<a id="rpi">rpi</a>
+## <a id="rpi">RaspberryPi</a>
