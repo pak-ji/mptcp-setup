@@ -1,15 +1,20 @@
-## mptcp-setup
+## MPTCP-SETUP
 This describes the process of setting up MPTCP on the Linux kernel. <br>
 It will be described in two models. <br>
 One is the Debian family of x86 general computers, and the other is RaspberryPi. <br>
 
-## navigation 
+<br>
+
+## Navigation 
 1. [Debian(x86)](#x86)
 2. [RaspberryPi](#rpi)
+
+<br>
 
 ## Debian(x86)
 <a id="x86">x86</a>
 
+<br>
 
 ## RaspberryPi
 <a id="rpi">rpi</a>
