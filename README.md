@@ -6,8 +6,8 @@ One is the Debian family of x86 general computers, and the other is RaspberryPi.
 <br>
 
 ## Navigation 
-1. [Debian(x86)](#x86)
-2. [RaspberryPi](#rpi)
+* [Debian(x86)](#x86)
+* [RaspberryPi](#rpi)
 
 <br>
 
