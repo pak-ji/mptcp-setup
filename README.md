@@ -12,7 +12,7 @@ One is the Debian family of x86 general computers, and the other is RaspberryPi.
 https://github.com/multipath-tcp/mptcp/releases
 ```
 
-#### 2. Download image file for debian version
+#### 2. Download the MPTCP version kernel image file that you want.
 <img src="https://user-images.githubusercontent.com/48320014/144986881-6e3401a9-790e-4583-8a47-7e55336be41c.png" width="550" height="300"/>
 
 #### 3. Build the image file to your debian system
